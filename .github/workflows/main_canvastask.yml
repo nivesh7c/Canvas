@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: 'canvastask'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9f811794cec14bc6a3a2c18eb1f31c51 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a98eefab0be14ce7978bb4b2e13c62dc }}
         package: '.\myapp.zip'
