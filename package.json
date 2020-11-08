@@ -4,7 +4,12 @@
   "description": "this is demo",
   "main": "server.js",
   "scripts": {
+    "predeploy": "npm run build",
     "start": "node server.js",
+    
+    "predeploy":"gh-pages -d build"
+   
+    
  
   },
   "author": "microsoft",
