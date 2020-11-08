@@ -2,12 +2,12 @@
   "name": "canvas",
   "version": "1.0.0",
   "description": "this is demo",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
  
   },
-  "author": "",
+  "author": "microsoft",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
