@@ -2,9 +2,9 @@
   "name": "canvas",
   "version": "1.0.0",
   "description": "this is demo",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node app.js",
  
   },
   "author": "",
