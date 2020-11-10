@@ -11,8 +11,7 @@ canvas
  height: 25px; 
  margin-top: 10px;
  margin-left: 5px;
- cursor: pointer;
- border: 1px solid;          
+ cursor: pointer;         
 }
 .btn-primary
 {
